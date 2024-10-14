@@ -20,7 +20,7 @@ Welcome to **Sushi Delight**, a beautifully crafted sushi-themed website built u
 
 1. Clone the repository:
    ```bash
-[  https://github.com/Akhil-dev9985/Sushi-Themed-Website/new/main](https://github.com/Akhil-dev9985/Sushi-Themed-Website)
+https://github.com/Akhil-dev9985/Sushi-Themed-Website/new/main](https://github.com/Akhil-dev9985/Sushi-Themed-Website
 2. Open the project folder in your code editor.
 
 Run the project:
