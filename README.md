@@ -1,6 +1,6 @@
 Sushi Delight - A Sushi-Themed Website 🍣
 
-Welcome to **Sushi Delight**, a beautifully crafted sushi-themed website built using **HTML**, **CSS**, and **JavaScript**! This website is designed to showcase sushi recipes, restaurant menus, and other sushi-related content in an interactive and visually appealing way.
+Welcome to Sushi Delight, a beautifully crafted sushi-themed website built using HTML, CSS, and JavaScript! This website is designed to showcase sushi recipes, restaurant menus, and other sushi-related content in an interactive and visually appealing way.
 
 🚀 Features
 
@@ -12,16 +12,16 @@ Welcome to **Sushi Delight**, a beautifully crafted sushi-themed website built u
 
 🛠️ Tech Stack
 
-- **HTML**: The structure of the website.
-- **CSS**: Styling and layout with responsive design.
-- **JavaScript**: For smooth, interactive elements (optional: can be expanded with more JS functionality).
+- HTML: The structure of the website.
+- CSS: Styling and layout with responsive design.
+- JavaScript: For smooth, interactive elements (optional: can be expanded with more JS functionality).
 
 🔧 Installation
 
 1. Clone the repository:
-   ```bash
 https://github.com/Akhil-dev9985/Sushi-Themed-Website/new/main](https://github.com/Akhil-dev9985/Sushi-Themed-Website
-2. Open the project folder in your code editor.
+
+3. Open the project folder in your code editor.
 
 Run the project:
 
