@@ -31,6 +31,9 @@ Simply open index.html in your browser to see the website in action.
 🤝 Contributing
 Contributions are welcome! If you’d like to improve the website or add new features, feel free to fork the repo and submit a pull request.
 
+🌐 Live Demo
+Feel free to check out the live version of this project here: https://akhil-sushitheme.netlify.app/
+
 ✨ License
 This project is licensed under the MIT License - see the LICENSE file for details.
 
